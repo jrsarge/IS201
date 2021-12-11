@@ -1,0 +1,167 @@
+.common{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-size:20px;
+    text-align:center;
+    background-color:rgb(236, 231, 231)
+}
+.picposition{
+    left:0px;
+    right:0px;
+    height:990px;
+    top:0px;
+    
+}
+.headerpic{
+    position:absolute;
+    clip: rect(0px,1550px,512px,0px);
+    z-index:-1;
+}
+.headertitle{
+    right:0px;
+    left:0px;
+    top:150px;
+    height:310px;
+    position:absolute;
+    text-align:center;
+    font-weight:bold;
+    font-size:76px;
+    color:white;
+    z-index:2;
+    
+}
+.jacobsargent{
+    text-align:left;
+    font-weight:bold;
+    float:left;
+    padding-left:90px;
+    padding-top:28px;
+    z-index:3;
+    color:white
+}
+.othertabs{
+    font-weight:bold;
+    float:right;
+    padding-top:28px;
+    padding-right:105px;
+    font-size:14px;
+    z-index:4;
+    color:white;
+}
+a:visited,a{
+    color:white;
+    text-decoration:none;
+}
+.fit{
+    width:400px;
+    object-fit:scale-down;
+    margin-top:700px;
+}
+.paragraph1{
+    position:absolute;
+    top:590px;
+    left:350px;
+    right:350px;
+    height:100px;
+}
+.tableau1{
+    position:absolute;
+    display:block;
+    top:720px;
+    width:700px;
+    left:120px;
+    right:350px;
+}
+.paragraph2{
+    position:absolute;
+    top:1300px;
+    left:350px;
+    right:350px;
+    height:150px;
+}
+.tableau2{
+    position:absolute;
+    display:block;
+    top:1000px;
+    width:700px;
+    left:350px;
+    right:350px;
+}
+.paragraph3{
+    position:absolute;
+    top:2100px;
+    right:350px;
+    left:350px;
+    height:150px;
+}
+.tableau3{
+    position:absolute;
+    display:block;
+    top:1250px;
+    width:700px;
+    right:350px;
+    left:350px;
+}
+.paragraph4{
+    position:absolute;
+    top:2850px;
+    right:350px;
+    left:350px;
+    height:150px;
+}
+.asif{
+    position:absolute;
+    display:block;
+    top:3050px;
+    width:300px;
+    right:350px;
+    left:550px;
+}
+.paragraph5{
+    position:absolute;
+    top:3370px;
+    right:350px;
+    left:350px;
+    height:60px;
+}
+.tableau4{
+    position:absolute;
+    display:block;
+    top:1900px;
+    width:700px;
+    right:350px;
+    left:350px;
+}
+.paragraph6{
+    position:absolute;
+    top:4025px;
+    right:350px;
+    left:350px;
+    height:200px;
+}
+.foot{
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    height:100px;
+    background-color:rgb(190, 184, 184);
+    text-align:center;
+}
+.copy{
+    font-style: italic;
+    margin-top:30px;
+    color:gray;
+    font-size:18px;
+}
+.paragraph7{
+    position:absolute;
+    top:4100px;
+    text-align:center;
+    right:350px;
+    left:350px;
+    height:200px;
+}
+.a-wut{
+    text-decoration:underline;
+}
